@@ -12,7 +12,7 @@ O sistema foi desenvolvido com foco na simplicidade e na facilidade de uso. Sua 
 
 ## Tecnologias
 
-* PHP
+* Node.JS
 * CSS3
 * HTML5
 * JS
