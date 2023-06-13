@@ -13,9 +13,12 @@ O sistema foi desenvolvido com foco na simplicidade e na facilidade de uso. Sua 
 * CSS3
 * HTML5
 * JS
+* 
+## Status:
+Concluído
 
 #### **Publicado em:** https://petshop-system.herokuapp.com/
-### Status: Concluído
+
 ## Telas
 <p align="center">
 <img src="./img/splash_screen.jpg" width="250" height="500"/>
