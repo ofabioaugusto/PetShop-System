@@ -1,6 +1,6 @@
 # PetShop System!
 
-Sistema web com autenticação de usuários, controle de agendamentos e relatórios voltado para atender Petshops no agendamento e controle de banho e tosa de animais.
+O sistema web é especialmente projetado para atender as necessidades dos Petshops, oferecendo recursos abrangentes como autenticação de usuários, controle de agendamentos e geração de relatórios. Com ênfase no agendamento e controle de banho e tosa de animais, o sistema proporciona uma experiência completa para os Petshops, permitindo o gerenciamento eficiente das atividades diárias. A autenticação de usuários garante a segurança das informações, enquanto o controle de agendamentos facilita o planejamento e organização dos serviços. Além disso, a geração de relatórios fornece dados valiosos para análise e tomada de decisões estratégicas.
 
 ## Objetivo
 
