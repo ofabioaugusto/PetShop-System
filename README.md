@@ -20,7 +20,6 @@ Concluído
 #### **Publicado em:** https://petshop-system.herokuapp.com/
 
 ## Telas
-<br>
 <p align="center">
 <img src="./img/splash_screen.jpg" width="250" height="500"/>
 <img src="./img/login.jpg" width="250" height="500"/>
