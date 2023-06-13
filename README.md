@@ -21,7 +21,7 @@ O sistema foi desenvolvido com foco na simplicidade e na facilidade de uso. Sua 
 
 Concluído
 
-#### **Publicado em:** https://petshop-system.herokuapp.com/
+#### Publicado em: https://petshop-system.herokuapp.com/
 
 ## Telas
 
